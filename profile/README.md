@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-<a href="https://omnirise.dev" title="omnirise.dev"><img src="https://api.iconify.design/ph/globe.svg?color=%230794ad&width=26&height=26" alt="omnirise.dev"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:contact@omnirise.dev" title="contact@omnirise.dev"><img src="https://api.iconify.design/ph/envelope-simple.svg?color=%230794ad&width=26&height=26" alt="email"></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/OmniRise00" title="@OmniRise00"><img src="https://api.iconify.design/ph/x-logo.svg?color=%230794ad&width=26&height=26" alt="X"></a>
+<a href="https://omnirise.dev" title="omnirise.dev"><img src="https://api.iconify.design/ph/globe.svg?color=%230794ad&width=26&height=26" alt="omnirise.dev"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:contact@omnirise.dev" title="contact@omnirise.dev"><img src="https://api.iconify.design/ph/envelope-simple.svg?color=%230794ad&width=26&height=26" alt="email"></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/OmniRise00" title="@OmniRise00"><img src="https://api.iconify.design/ph/x-logo.svg?color=%230794ad&width=26&height=26" alt="X"></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/omnirise00" title="@omnirise00 on Instagram"><img src="https://api.iconify.design/ph/instagram-logo.svg?color=%230794ad&width=26&height=26" alt="Instagram"></a>
 </p>
